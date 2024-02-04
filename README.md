@@ -27,15 +27,6 @@ demo [ here ](https://whatsapp-toolkit.vercel.app/)
 
 ![Project page](./git-images/9.png)
 
-## Features
-
-- **Product Categories:** Easily list and find products in different
-  categories.
-- **Boosted Ads:** Users can pay to boost their ads for increased
-  visibility.
-- **Premium Plans:** Unlock additional benefits with premium plans.
-- **User Controls:** Delete, report, and manage your own ads.
-
 ## Tech Stack
 
 - **Frontend:** Developed using React and Next.js.
