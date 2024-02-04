@@ -1,10 +1,10 @@
 # WToolkit
 
-This is a simple wlive demoebsite for WToolkit extension that you can
-use to Empower your privacy: Blur out contact names, photos, recent
-messages, and more. Take control with our innovative features for a
-secure user experience. Elevate your privacy, seamlessly. you can find
-the live demo [ here ](https://whatsapp-toolkit.vercel.app/)
+This is a simple website for WToolkit extension that you can use to
+Empower your privacy: Blur out contact names, photos, recent messages,
+and more. Take control with our innovative features for a secure user
+experience. Elevate your privacy, seamlessly. you can find the live
+demo [ here ](https://whatsapp-toolkit.vercel.app/)
 
 - [Find me on fiver ](https://www.fiverr.com/zainbinramzan/develop-web-applications-with-mern-stack-react-node-express-moongodbplugin-react/README.md)
 - [Find me on linkedin](https://www.linkedin.com/in/abu-zain-html-css-javascipt-developer/)
@@ -26,8 +26,6 @@ the live demo [ here ](https://whatsapp-toolkit.vercel.app/)
 ![Project page](./git-images/8.png)
 
 ![Project page](./git-images/9.png)
-
-![Project page](./readme-images/19.png)
 
 ## Features
 
